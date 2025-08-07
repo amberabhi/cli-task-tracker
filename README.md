@@ -17,6 +17,17 @@ You can **add**, **list**, **mark as done**, **update**, **delete**, and **searc
 
 ---
 
+## 🛠️ Setup Instructions
+
+Follow these steps to set up and use the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/cli-task-tracker.git
+cd cli-task-tracker
+
+
 ## 🛠️ How It Works
 
 All tasks are stored in a local file called `task.json`.  
