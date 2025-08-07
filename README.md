@@ -30,3 +30,13 @@ Each task has the following structure:
   "created-at": "2025-08-07T14:32:17",
   "updated-at": "2025-08-07T15:01:12"
 }
+
+## 🛠️ Setup Instructions
+
+Follow these steps to set up and use the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/cli-task-tracker.git
+cd cli-task-tracker
