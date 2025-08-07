@@ -41,3 +41,7 @@ Follow these steps to set up and use the project on your local machine.
 ```bash
 git clone https://github.com/your-username/cli-task-tracker.git
 cd cli-task-tracker
+```
+
+## 🌐 Project url
+(https://roadmap.sh/projects/task-tracker)
